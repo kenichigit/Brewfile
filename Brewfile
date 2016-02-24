@@ -6,8 +6,26 @@ brew mas
 
 tap caskroom/cask
 brew brew-cask
+cask androidtool
+cask appcleaner
+cask bathyscaphe
+cask dropbox
+cask evernote
 cask firealpaca
+cask handbrake
+cask handbrakebatch
+cask iterm2
+cask mediainfo
+cask sourcetree
+cask torbrowser
+cask universal-media-server
 cask vagrant
+cask virtualbox
+cask vlc
+cask xld
+
+tap caskroom/versions
+cask sublime-text3
 
 tap rcmdnk/file
 brew brew-file
@@ -52,7 +70,6 @@ brew zsh
 # App Store applications
 appstore 411246225 Caffeine
 appstore 831481931 CherryBlossom OSX
-appstore 406056744 Evernote
 appstore 463243494 Kopypasta
 appstore 539883307 LINE
 appstore 411213048 LadioCast
